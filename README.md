@@ -1,4 +1,4 @@
-# PHP-Beginner-Course
+# PHP Beginner Course
 
 My first ever PHP course.
 
